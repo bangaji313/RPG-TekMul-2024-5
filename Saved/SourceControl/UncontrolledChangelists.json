@@ -1,0 +1,46 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"G:/Project_UnrealEngine5/Unreal Projects/Questbound_RPG/RPG_QuestBound_2/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"G:/Project_UnrealEngine5/Unreal Projects/Questbound_RPG/RPG_QuestBound_2/Content/Characters/RPG_Character/Animations/Locomotion/Idle_Break.uasset",
+				"G:/Project_UnrealEngine5/Unreal Projects/Questbound_RPG/RPG_QuestBound_2/Content/Characters/RPG_Character/Animations/Locomotion/Walk_Stop.uasset",
+				"G:/Project_UnrealEngine5/Unreal Projects/Questbound_RPG/RPG_QuestBound_2/Content/Characters/RPG_Character/Animations/Crouched/Crouch_Idle.uasset",
+				"G:/Project_UnrealEngine5/Unreal Projects/Questbound_RPG/RPG_QuestBound_2/Content/Characters/RPG_Character/Animations/Crouched/Crouh_Walk.uasset",
+				"G:/Project_UnrealEngine5/Unreal Projects/Questbound_RPG/RPG_QuestBound_2/Content/Characters/RPG_Character/Animations/Locomotion/LocomotionBlendSpace1D.uasset",
+				"G:/Project_UnrealEngine5/Unreal Projects/Questbound_RPG/RPG_QuestBound_2/Content/Characters/RPG_Character/Animations/ABP_RPGCharacter.uasset",
+				"G:/Project_UnrealEngine5/Unreal Projects/Questbound_RPG/RPG_QuestBound_2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"G:/Project_UnrealEngine5/Unreal Projects/Questbound_RPG/RPG_QuestBound_2/Content/ThirdPerson/Input/Actions/IA_Crouch.uasset",
+				"G:/Project_UnrealEngine5/Unreal Projects/Questbound_RPG/RPG_QuestBound_2/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"G:/Project_UnrealEngine5/Unreal Projects/Questbound_RPG/RPG_QuestBound_2/Content/Characters/RPG_Character/Animations/Crouched/CrouchedBlendSpace1D.uasset",
+				"G:/Project_UnrealEngine5/Unreal Projects/Questbound_RPG/RPG_QuestBound_2/Content/Characters/RPG_Character/Animations/Lean/Lean_Left.uasset",
+				"G:/Project_UnrealEngine5/Unreal Projects/Questbound_RPG/RPG_QuestBound_2/Content/Characters/RPG_Character/Animations/Lean/Lean_Right.uasset",
+				"G:/Project_UnrealEngine5/Unreal Projects/Questbound_RPG/RPG_QuestBound_2/Content/Characters/RPG_Character/Animations/Lean/LeanBlendSpace1D.uasset",
+				"G:/Project_UnrealEngine5/Unreal Projects/Questbound_RPG/RPG_QuestBound_2/Content/Characters/Mannequins/Materials/Instances/Manny/Manny_Blue2.uasset",
+				"G:/Project_UnrealEngine5/Unreal Projects/Questbound_RPG/RPG_QuestBound_2/Content/Characters/Mannequins/Materials/Instances/Manny/Manny_Blue1.uasset",
+				"G:/Project_UnrealEngine5/Unreal Projects/Questbound_RPG/RPG_QuestBound_2/Content/Characters/RPG_Character/Animations/Vaulting/VaultOver.uasset",
+				"G:/Project_UnrealEngine5/Unreal Projects/Questbound_RPG/RPG_QuestBound_2/Content/Characters/RPG_Character/Animations/Vaulting/VaultOver_Montage.uasset",
+				"G:/Project_UnrealEngine5/Unreal Projects/Questbound_RPG/RPG_QuestBound_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/PC/QNVOI339D0RMK2C0KTX83V.uasset",
+				"G:/Project_UnrealEngine5/Unreal Projects/Questbound_RPG/RPG_QuestBound_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/9I/2Y7FH4KZE0EFE59205VFYX.uasset",
+				"G:/Project_UnrealEngine5/Unreal Projects/Questbound_RPG/RPG_QuestBound_2/Content/Characters/RPG_Character/Animations/Assasinations/UE4/Paired_Knife_Stealth_KidneyAndNeck_Att.uasset",
+				"G:/Project_UnrealEngine5/Unreal Projects/Questbound_RPG/RPG_QuestBound_2/Content/Characters/RPG_Character/Animations/Assasinations/UE4/Paired_Knife_Stealth_KidneyAndNeck_Vic.uasset",
+				"G:/Project_UnrealEngine5/Unreal Projects/Questbound_RPG/RPG_QuestBound_2/Content/Characters/RPG_Character/Animations/Assasinations/Paired_Knife_Stealth_KidneyAndNeck_Att.uasset",
+				"G:/Project_UnrealEngine5/Unreal Projects/Questbound_RPG/RPG_QuestBound_2/Content/Characters/RPG_Character/Animations/Assasinations/Paired_Knife_Stealth_KidneyAndNeck_Vic.uasset",
+				"G:/Project_UnrealEngine5/Unreal Projects/Questbound_RPG/RPG_QuestBound_2/Content/Characters/RPG_Character/Animations/Assasinations/Paired_Knife_Stealth_KidneyAndNeck_Att_Montage.uasset",
+				"G:/Project_UnrealEngine5/Unreal Projects/Questbound_RPG/RPG_QuestBound_2/Content/Blueprints/BP_Dummy.uasset",
+				"G:/Project_UnrealEngine5/Unreal Projects/Questbound_RPG/RPG_QuestBound_2/Content/Blueprints/BPI_Assasination.uasset",
+				"G:/Project_UnrealEngine5/Unreal Projects/Questbound_RPG/RPG_QuestBound_2/Content/UI/WB_AssasinatePrompt.uasset",
+				"G:/Project_UnrealEngine5/Unreal Projects/Questbound_RPG/RPG_QuestBound_2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/8A/S67643KEWYKYFJ992JUI8A.uasset",
+				"G:/Project_UnrealEngine5/Unreal Projects/Questbound_RPG/RPG_QuestBound_2/Content/ThirdPerson/Input/Actions/IA_Vault.uasset",
+				"G:/Project_UnrealEngine5/Unreal Projects/Questbound_RPG/RPG_QuestBound_2/Content/ThirdPerson/Input/Actions/IA_Assasin.uasset",
+				"G:/Project_UnrealEngine5/Unreal Projects/Questbound_RPG/RPG_QuestBound_2/Content/Characters/RPG_Character/Animations/Assasinations/Paired_Knife_Stealth_KidneyAndNeck_Vic_Montage.uasset",
+				"G:/Project_UnrealEngine5/Unreal Projects/Questbound_RPG/RPG_QuestBound_2/Content/ThirdPerson/Input/Actions/IA_Crouched.uasset",
+				"G:/Project_UnrealEngine5/Unreal Projects/Questbound_RPG/RPG_QuestBound_2/Content/Characters/Mannequins/Materials/Instances/Manny/Manny_Blue.uasset",
+				"G:/Project_UnrealEngine5/Unreal Projects/Questbound_RPG/RPG_QuestBound_2/Content/Characters/Mannequins/Materials/Instances/Manny/Manny_Blue3.uasset"
+			]
+		}
+	]
+}
